@@ -1,0 +1,2 @@
+PLease download "glove.6B.50d.txt" embeddings from: https://nlp.stanford.edu/projects/glove/
+put it here and run the main.py
